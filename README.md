@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Utkarsh%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%28MERN%29;AI+%26+ML+Enthusiast;Competitive+Programmer;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/utkarshpandey04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -47,6 +47,7 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -91,6 +92,17 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 ---
 
+## 🎖️ GitHub Achievements
+
+<div align="center">
+
+[![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtkarshPandey04?achievement=pull-shark&tab=achievements)
+[![YOLO](https://img.shields.io/badge/🎯%20YOLO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtkarshPandey04?achievement=yolo&tab=achievements)
+
+</div>
+
+---
+
 ## 🧠 DSA & Competitive Programming
 
 <div align="center">
@@ -103,7 +115,7 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 </div>
 
-> Regular contest participation — improving problem-solving speed, logical reasoning, and code efficiency.
+> Regular contest participation — improving problem-solving speed, logical reasoning, and code efficiency under time constraints.
 
 ---
 
@@ -122,30 +134,48 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 ## 🚀 Projects
 
-### 📋 Digital Notice Board Web Application
+### 📋 [Community Notice Board Web App](https://github.com/UtkarshPandey04/Community-Notice-Board-Website)
 > Community-focused web platform for announcements, events, and verified information sharing
 
 - Real-time updates, secure admin login, non-commercial listings
 - Promotes paperless communication within residential communities
-- **Tech:** React · Node.js · Express · MongoDB
-- 🔗 [Live Demo](#)
+- **Tech:** React · Node.js · Express · MongoDB · JavaScript
 
 ---
 
-### 📝 MegaBlog
+### 📝 [MegaBlog](https://github.com/UtkarshPandey04/megaBlog)
 > Full-stack blog platform for creating, reading, and managing posts
 
 - Clean UI, responsive design, structured content presentation
-- **Tech:** HTML · CSS · JavaScript · React · Node.js · Express · MongoDB
-- 🔗 [Live Demo](#)
+- User-friendly interface for blog creation and management
+- **Tech:** React · Node.js · Express · MongoDB · JavaScript
 
 ---
 
-### ♻️ ReuseHub *(Concept Project)*
-> Sustainability platform promoting the 3Rs — Reduce, Reuse, Recycle
+### 🎬 [MYTUBE](https://github.com/UtkarshPandey04/MYTUBE)
+> YouTube clone — a video streaming web application
+
+- Mimics core YouTube features including video browsing and playback
+- Integrated with YouTube Data API for real video content
+- **Tech:** React · JavaScript · REST API
+
+---
+
+### ♻️ [ReuseHub](https://github.com/UtkarshPandey04/Reuse-hub-innotech)
+> Sustainability-driven platform promoting the 3Rs — Reduce, Reuse, Recycle
 
 - Raises awareness about CO₂ emissions and water conservation
-- Community-driven approach to sustainable living
+- Community-driven approach to sustainable and eco-friendly living
+- **Tech:** TypeScript · React
+
+---
+
+### 🌐 [My Portfolio](https://github.com/UtkarshPandey04/myPortfolio)
+> Personal developer portfolio — showcasing projects, skills, and experience
+
+- Fully responsive design, deployed on Vercel
+- **Tech:** JavaScript · React
+- 🔗 [Live Site](https://my-portfolio.vercel.app)
 
 ---
 
@@ -155,10 +185,12 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 | Badge | Certification |
 |---|---|
-| ☁️ | **AWS Academy Graduate** – Machine Learning Foundations · [Verify on Credly](#) |
-| 🏅 | **AWS Certified Cloud Practitioner** (CLF-C02) · [Verify on Credly](#) |
+| ☁️ | **AWS Academy Graduate** – Machine Learning Foundations · [Verify on Credly](https://www.credly.com/users/utkarsh-pandey) |
+| 🏅 | **AWS Certified Cloud Practitioner** (CLF-C02) · [Verify on Credly](https://www.credly.com/users/utkarsh-pandey) |
 
 </div>
+
+> ⚠️ *Replace the Credly links above with your exact credential badge URLs from your Credly profile.*
 
 ---
 
@@ -181,7 +213,7 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 | 🐙 GitHub | [github.com/UtkarshPandey04](https://github.com/UtkarshPandey04) |
 | 🟡 LeetCode | [leetcode.com/u/Utkarsh_041004](https://leetcode.com/u/Utkarsh_041004/) |
 | 🌐 Portfolio | [my-portfolio.vercel.app](https://my-portfolio.vercel.app) |
-| 📧 Email | utkarshpandey.up.2004@gmail.com |
+| 📧 Email | [utkarshpandey.up.2004@gmail.com](mailto:utkarshpandey.up.2004@gmail.com) |
 | 📱 Phone | +91 8318133677 |
 
 </div>
@@ -192,6 +224,6 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
 
-⭐ **If you find my work interesting, feel free to star my repositories!**
+⭐ **If you find my work interesting, feel free to star my repositories and connect!**
 
 </div>
