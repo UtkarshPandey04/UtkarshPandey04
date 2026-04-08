@@ -175,7 +175,7 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 - Fully responsive design, deployed on Vercel
 - **Tech:** JavaScript · React
-- 🔗 [Live Site](https://my-portfolio.vercel.app)
+- 🔗 [Live Site]([https://my-portfolio.vercel.app](https://my-portfolio-theta-mauve-68.vercel.app/))
 
 ---
 
@@ -212,7 +212,7 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 | 💼 LinkedIn | [linkedin.com/in/utkarshpandey04](https://linkedin.com/in/utkarshpandey04) |
 | 🐙 GitHub | [github.com/UtkarshPandey04](https://github.com/UtkarshPandey04) |
 | 🟡 LeetCode | [leetcode.com/u/Utkarsh_041004](https://leetcode.com/u/Utkarsh_041004/) |
-| 🌐 Portfolio | [my-portfolio.vercel.app](https://my-portfolio.vercel.app) |
+| 🌐 Portfolio | [my-portfolio.vercel.app]([https://my-portfolio.vercel.app](https://my-portfolio-theta-mauve-68.vercel.app/)) |
 | 📧 Email | [utkarshpandey.up.2004@gmail.com](mailto:utkarshpandey.up.2004@gmail.com) |
 | 📱 Phone | +91 8318133677 |
 
