@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Utkarsh%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
+<img src="https://avatars.githubusercontent.com/u/182687264?v=4" width="130" style="border-radius: 50%;" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%28MERN%29;AI+%26+ML+Enthusiast;Competitive+Programmer;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 <p>
