@@ -10,8 +10,9 @@
   <a href="https://linkedin.com/in/utkarshpandey04"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/UtkarshPandey04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Utkarsh_041004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="[[https://my-portfolio.vercel.app](https://my-portfolio-theta-mauve-68.vercel.app)](https://my-portfolio-theta-mauve-68.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://my-portfolio-theta-mauve-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:utkarshpandey.up.2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1vajZ3Wm3icd3lmu9T3i3He7cTvGhoo-J/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=UtkarshPandey04&label=Profile+Views&color=6C63FF&style=flat-square" />
@@ -177,7 +178,7 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 - Fully responsive design, deployed on Vercel
 - **Tech:** JavaScript · React
-- 🔗 [Live Site]([https://my-portfolio.vercel.app](https://my-portfolio-theta-mauve-68.vercel.app/))
+- 🔗 [Live Site](https://my-portfolio-theta-mauve-68.vercel.app/)
 
 ---
 
@@ -187,12 +188,12 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 
 | Badge | Certification |
 |---|---|
-| ☁️ | **AWS Academy Graduate** – Machine Learning Foundations · [Verify on Credly](https://www.credly.com/users/utkarsh-pandey) |
-| 🏅 | **AWS Certified Cloud Practitioner** (CLF-C02) · [Verify on Credly](https://www.credly.com/users/utkarsh-pandey) |
+| 🏅 | **AWS Certified Solutions Architect** – Associate · [Verify on Credly](https://www.credly.com/badges/e222d5a6-4e4f-45a0-89e2-8070ca2ccb63/public_url) |
+| 🏅 | **AWS Certified Data Engineer** – Associate · [Verify on Credly](https://www.credly.com/badges/0353ef24-5ab6-463b-bb90-2245d16daed9/public_url) |
+| ☁️ | **AWS Certified Cloud Practitioner** (CLF-C02) · [Verify on Credly](https://www.credly.com/badges/1a890e17-8ead-4429-8110-3c3459a746a2/public_url) |
+| 🎓 | **AWS Academy Graduate** – Machine Learning Foundations |
 
 </div>
-
-> ⚠️ *Replace the Credly links above with your exact credential badge URLs from your Credly profile.*
 
 ---
 
@@ -214,7 +215,8 @@ goal: Secure an SWE / Web Dev internship & contribute to impactful products
 | 💼 LinkedIn | [linkedin.com/in/utkarshpandey04](https://linkedin.com/in/utkarshpandey04) |
 | 🐙 GitHub | [github.com/UtkarshPandey04](https://github.com/UtkarshPandey04) |
 | 🟡 LeetCode | [leetcode.com/u/Utkarsh_041004](https://leetcode.com/u/Utkarsh_041004/) |
-| 🌐 Portfolio | [my-portfolio.vercel.app]([https://my-portfolio.vercel.app](https://my-portfolio-theta-mauve-68.vercel.app/)) |
+| 🌐 Portfolio | [my-portfolio-theta-mauve-68.vercel.app](https://my-portfolio-theta-mauve-68.vercel.app/) |
+| 📄 Resume | [View Resume](https://drive.google.com/file/d/1vajZ3Wm3icd3lmu9T3i3He7cTvGhoo-J/view?usp=sharing) |
 | 📧 Email | [utkarshpandey.up.2004@gmail.com](mailto:utkarshpandey.up.2004@gmail.com) |
 | 📱 Phone | +91 8318133677 |
 
